@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @chiru<br>👀 I’m Web devoloper<br>🌱 I’m currently learning HTML,CSS,JAVASCRIPT,JAVA,DSA<br>💞️ I’m looking to collaborate on projects.<br>📫 How to reach me ...G-mail chiranjeevimaktha@gmail.com
+👋 Hi, I’m @chiru<br>👀 I’m Frontend web devoloper<br>🌱 I’m currently learning...<br>💞️ I’m looking to collaborate on projects.<br>📫 How to reach me ...G-mail chiranjeevimaktha@gmail.com
 
 
 ## 🌐 Socials:
